@@ -40,7 +40,9 @@
     ],
     "profile": {
       "id": 1,
-      "name": "Shaukat",
+      "login": "sshaukat",
+      "first_name": "Shaukat",
+      "last_name": "Salakhutdinov",
       "phone": "+79151234567"
     }
   }
