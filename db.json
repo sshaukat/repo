@@ -1,49 +1,49 @@
 {
     "goods": [
-      {
-        "id": 1,
-        "title": "Product 1",
-        "description": "Description 1"
-      }, {
-        "id": 2,
-        "title": "Product 2",
-        "description": "Description 2"
-      }, {
-        "id": 3,
-        "title": "Product 3",
-        "description": "Description 3"
-      }, {
-        "id": 4,
-        "title": "Product 4",
-        "description": "Description 4"
-      }, {
-        "id": 5,
-        "title": "Product 5",
-        "description": "Description 5"
-      }, {
-        "id": 6,
-        "title": "Product 6",
-        "description": "Description 6"
-      }, {
-        "id": 7,
-        "title": "Product 7",
-        "description": "Description 7"
-      }, {
-        "id": 8,
-        "title": "Product 8",
-        "description": "Description 8"
-      }, {
-        "id": 9,
-        "title": "Product 9",
-        "description": "Description 9"
-      }
+        {
+            "id": 1,
+            "title": "Волга М 21",
+            "price": 4500000,
+            "categories": [
+                "Коллекционирование"
+            ],
+            "type": "Модели",
+            "seller": {
+                "name": "Андрей Андреевич",
+                "type": "Частное лицо",
+                "image": null,
+                "phones": [
+                    "+79011234567",
+                    "+79017654321"
+                ]
+            },
+            "address": {
+                "metro": [
+                    {
+                        "id": 1,
+                        "name": "Новопеределкино",
+                        "distance": 700
+                    }
+                ],
+                "location": {
+                    "address": "Москва, р-н Ново-Переделкино",
+                    "lat": 55.646081,
+                    "lon": 37.357169
+                }
+            },
+            "images": [
+                "https://www.dropbox.com/s/j738i9x54yhqwof/volga_m21.jpg?dl=1",
+                "https://www.dropbox.com/s/5nnhpzak5deuhrh/volga_m21_1.png?dl=1",
+                "https://www.dropbox.com/s/uwhbsxunnledi83/volga_m21_2.jpg?dl=0"
+            ],
+            "publicationTime": "2020-01-19T14:00:00+00:00"
+        }
     ],
     "profile": {
-      "id": 1,
-      "login": "sshaukat",
-      "first_name": "Shaukat",
-      "last_name": "Salakhutdinov",
-      "phone": "+79151234567"
+        "id": 1,
+        "login": "sshaukat",
+        "first_name": "Shaukat",
+        "last_name": "Salakhutdinov",
+        "phone": "+79151234567"
     }
-  }
-  
+}
