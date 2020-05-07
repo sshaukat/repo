@@ -37,7 +37,7 @@
             "images": [
                 "https://www.dropbox.com/s/j738i9x54yhqwof/volga_m21.jpg?dl=1",
                 "https://www.dropbox.com/s/5nnhpzak5deuhrh/volga_m21_1.png?dl=1",
-                "https://www.dropbox.com/s/uwhbsxunnledi83/volga_m21_2.jpg?dl=0"
+                "https://www.dropbox.com/s/uwhbsxunnledi83/volga_m21_2.jpg?dl=1"
             ],
             "publicationTime": "2020-05-07T03:10:00+00:00"
         },
@@ -53,32 +53,32 @@
             ],
             "type": "Модели",
             "seller": {
-                "name": "Андрей Андреевич",
+                "name": "Отто фон Штрилиц",
                 "type": "Частное лицо",
                 "image": null,
                 "phones": [
-                    "+79011234567",
-                    "+79017654321"
+                    "+49301234567",
+                    "+49307654321"
                 ]
             },
             "address": {
                 "metro": [
                     {
                         "id": 1,
-                        "name": "Новопеределкино",
-                        "distance": 700
+                        "name": "Зенефельдерплац",
+                        "distance": 120
                     }
                 ],
                 "location": {
-                    "address": "Москва, р-н Ново-Переделкино",
-                    "lat": 55.646081,
-                    "lon": 37.357169
+                    "address": "Schönhauser Allee 176A, Berlin",
+                    "lat": 52.531722,
+                    "lon": 13.411973
                 }
             },
             "images": [
-                "https://www.dropbox.com/s/j738i9x54yhqwof/volga_m21.jpg?dl=1",
-                "https://www.dropbox.com/s/5nnhpzak5deuhrh/volga_m21_1.png?dl=1",
-                "https://www.dropbox.com/s/uwhbsxunnledi83/volga_m21_2.jpg?dl=0"
+                "https://www.dropbox.com/s/s6lj1rz06kss2b0/1938_Mercedes-Benz_230_W143_0.jpg?dl=1",
+                "https://www.dropbox.com/s/6ko1qq9u6ct556v/1938_Mercedes-Benz_230_W143_1.jpg?dl=1",
+                "https://www.dropbox.com/s/pp8dulr72gqfwam/1938_Mercedes-Benz_230_W143_3.jpg?dl=1"
             ],
             "publicationTime": "2020-01-19T14:00:00+00:00"
         }
