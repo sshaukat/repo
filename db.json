@@ -39,6 +39,47 @@
                 "https://www.dropbox.com/s/5nnhpzak5deuhrh/volga_m21_1.png?dl=1",
                 "https://www.dropbox.com/s/uwhbsxunnledi83/volga_m21_2.jpg?dl=0"
             ],
+            "publicationTime": "2020-05-07T03:10:00+00:00"
+        },
+        {
+            "id": 1,
+            "title": "Волга М 21",
+            "price": {
+                "value": 4500000,
+                "currency": "rub"
+            },
+            "categories": [
+                "Коллекционирование"
+            ],
+            "type": "Модели",
+            "seller": {
+                "name": "Андрей Андреевич",
+                "type": "Частное лицо",
+                "image": null,
+                "phones": [
+                    "+79011234567",
+                    "+79017654321"
+                ]
+            },
+            "address": {
+                "metro": [
+                    {
+                        "id": 1,
+                        "name": "Новопеределкино",
+                        "distance": 700
+                    }
+                ],
+                "location": {
+                    "address": "Москва, р-н Ново-Переделкино",
+                    "lat": 55.646081,
+                    "lon": 37.357169
+                }
+            },
+            "images": [
+                "https://www.dropbox.com/s/j738i9x54yhqwof/volga_m21.jpg?dl=1",
+                "https://www.dropbox.com/s/5nnhpzak5deuhrh/volga_m21_1.png?dl=1",
+                "https://www.dropbox.com/s/uwhbsxunnledi83/volga_m21_2.jpg?dl=0"
+            ],
             "publicationTime": "2020-01-19T14:00:00+00:00"
         }
     ],
