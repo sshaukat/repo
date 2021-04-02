@@ -1,23 +1,10 @@
 {
-    "invalid_session": {
-        "status": "INVALID",
-        "code": 1001,
-        "message": "Invalid session"
-    },
+   
     "check_ok": {
         "status": "OK",
         "client": {
             "fio": "Салахутдинов Шаукат Ренатович",
             "location": "Москва"
-        }
-    },
-    "check_question": {
-        "status": "QUESTION",
-        "client": {
-            "email": "ssr@mail.com",
-            "fio": "Салахутдинов Шаукат Ренатович",
-            "location": "Москва",
-            "locatonId": 1000001
         }
     }
 }
