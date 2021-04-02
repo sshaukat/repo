@@ -1,9 +1,4 @@
 {
-    "invalid_session": {
-        "status": "INVALID",
-        "code": 1001,
-        "message": "Invalid session"
-    },
     "check_ok": {
         "status": "OK",
         "client": {
