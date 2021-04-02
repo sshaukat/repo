@@ -1,5 +1,6 @@
 {
     "invalid_session": {
+        "status": "INVALID",
         "code": 1001,
         "message": "Invalid session"
     },
@@ -20,5 +21,16 @@
             "location": "Москва",
             "locatonId": 1000001
         }
+    },
+    "login": {
+        "sessionId": "aST4PUv3FEWiNmrkV1mhSA"
+    },
+    "code": {
+        "status": "OK",
+        "code": "1001"
+    },
+    "code_invalid_otp": {
+        "code": 1002,
+        "message": "Неверный код подтверждения"
     }
 }
