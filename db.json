@@ -1,4 +1,9 @@
 {
+    "invalid_session": {
+        "status": "INVALID",
+        "code": 1001,
+        "message": "Invalid session"
+    },
     "check_ok": {
         "status": "OK",
         "client": {
@@ -7,5 +12,25 @@
             "location": "Москва",
             "locatonId": 1000001
         }
+    },
+    "check_question": {
+        "status": "QUESTION",
+        "client": {
+            "email": "ssr@mail.com",
+            "fio": "Салахутдинов Шаукат Ренатович",
+            "location": "Москва",
+            "locatonId": 1000001
+        }
+    },
+    "login": {
+        "sessionId": "aST4PUv3FEWiNmrkV1mhSA"
+    },
+    "code": {
+        "status": "OK",
+        "code": "1001"
+    },
+    "code_invalid_otp": {
+        "code": 1002,
+        "message": "Неверный код подтверждения"
     }
 }
