@@ -7,10 +7,8 @@
     "check_ok": {
         "status": "OK",
         "client": {
-            "email": "ssr@mail.com",
             "fio": "Салахутдинов Шаукат Ренатович",
-            "location": "Москва",
-            "locatonId": 1000001
+            "location": "Москва"
         }
     },
     "check_question": {
